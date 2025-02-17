@@ -1,0 +1,1134 @@
+{
+    "46095": {
+        "timestamp": "2025-02-17T01:20:01.001892",
+        "details": {
+            "id": 46095,
+            "title": "Vivy: Fluorite Eye's Song",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1551/128960.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1551/128960l.jpg"
+            },
+            "alternative_titles": {
+                "synonyms": [],
+                "en": "Vivy -Fluorite Eye's Song-",
+                "ja": "Vivy -Fluorite Eye's Song- (ヴィヴィ -フローライトアイズソング-)"
+            },
+            "mean": 8.39,
+            "rank": 207,
+            "popularity": 413,
+            "genres": [
+                {
+                    "id": 1,
+                    "name": "Action"
+                },
+                {
+                    "id": 19,
+                    "name": "Music"
+                },
+                {
+                    "id": 24,
+                    "name": "Sci-Fi"
+                },
+                {
+                    "id": 41,
+                    "name": "Suspense"
+                },
+                {
+                    "id": 78,
+                    "name": "Time Travel"
+                }
+            ],
+            "num_episodes": 13,
+            "recommendations": [
+                {
+                    "node": {
+                        "id": 33352,
+                        "title": "Violet Evergarden",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1795/95088.webp",
+                            "large": "https://cdn.myanimelist.net/images/anime/1795/95088l.webp"
+                        }
+                    },
+                    "num_recommendations": 48
+                },
+                {
+                    "node": {
+                        "id": 9253,
+                        "title": "Steins;Gate",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1935/127974.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg"
+                        }
+                    },
+                    "num_recommendations": 14
+                },
+                {
+                    "node": {
+                        "id": 48556,
+                        "title": "Takt Op. Destiny",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1449/117797.webp",
+                            "large": "https://cdn.myanimelist.net/images/anime/1449/117797l.webp"
+                        }
+                    },
+                    "num_recommendations": 9
+                },
+                {
+                    "node": {
+                        "id": 10793,
+                        "title": "Guilty Crown",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1566/133912.webp",
+                            "large": "https://cdn.myanimelist.net/images/anime/1566/133912l.webp"
+                        }
+                    },
+                    "num_recommendations": 7
+                },
+                {
+                    "node": {
+                        "id": 31240,
+                        "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1522/128039.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/1522/128039l.jpg"
+                        }
+                    },
+                    "num_recommendations": 6
+                },
+                {
+                    "node": {
+                        "id": 42310,
+                        "title": "Cyberpunk: Edgerunners",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1818/126435.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/1818/126435l.jpg"
+                        }
+                    },
+                    "num_recommendations": 5
+                },
+                {
+                    "node": {
+                        "id": 9756,
+                        "title": "Mahou Shoujo Madoka★Magica",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/11/55225.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/11/55225l.jpg"
+                        }
+                    },
+                    "num_recommendations": 5
+                },
+                {
+                    "node": {
+                        "id": 41457,
+                        "title": "86",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1987/117507.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/1987/117507l.jpg"
+                        }
+                    },
+                    "num_recommendations": 4
+                },
+                {
+                    "node": {
+                        "id": 35737,
+                        "title": "Pluto",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1021/138568.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/1021/138568l.jpg"
+                        }
+                    },
+                    "num_recommendations": 4
+                },
+                {
+                    "node": {
+                        "id": 36516,
+                        "title": "Beatless",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1986/90184.webp",
+                            "large": "https://cdn.myanimelist.net/images/anime/1986/90184l.webp"
+                        }
+                    },
+                    "num_recommendations": 4
+                }
+            ]
+        }
+    },
+    "28223": {
+        "timestamp": "2025-02-17T01:20:01.001892",
+        "details": {
+            "id": 28223,
+            "title": "Death Parade",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/5/71553.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/5/71553l.jpg"
+            },
+            "alternative_titles": {
+                "synonyms": [],
+                "en": "Death Parade",
+                "ja": "デス・パレード"
+            },
+            "mean": 8.14,
+            "rank": 474,
+            "popularity": 48,
+            "genres": [
+                {
+                    "id": 50,
+                    "name": "Adult Cast"
+                },
+                {
+                    "id": 8,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 59,
+                    "name": "High Stakes Game"
+                },
+                {
+                    "id": 40,
+                    "name": "Psychological"
+                },
+                {
+                    "id": 41,
+                    "name": "Suspense"
+                }
+            ],
+            "num_episodes": 12,
+            "recommendations": [
+                {
+                    "node": {
+                        "id": 1535,
+                        "title": "Death Note",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1079/138100.webp",
+                            "large": "https://cdn.myanimelist.net/images/anime/1079/138100l.webp"
+                        }
+                    },
+                    "num_recommendations": 49
+                },
+                {
+                    "node": {
+                        "id": 6547,
+                        "title": "Angel Beats!",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1244/111115.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/1244/111115l.jpg"
+                        }
+                    },
+                    "num_recommendations": 36
+                },
+                {
+                    "node": {
+                        "id": 13601,
+                        "title": "Psycho-Pass",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1314/142015.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/1314/142015l.jpg"
+                        }
+                    },
+                    "num_recommendations": 17
+                },
+                {
+                    "node": {
+                        "id": 228,
+                        "title": "Jigoku Shoujo",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/4/86907.webp",
+                            "large": "https://cdn.myanimelist.net/images/anime/4/86907l.webp"
+                        }
+                    },
+                    "num_recommendations": 16
+                },
+                {
+                    "node": {
+                        "id": 19815,
+                        "title": "No Game No Life",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1074/111944.webp",
+                            "large": "https://cdn.myanimelist.net/images/anime/1074/111944l.webp"
+                        }
+                    },
+                    "num_recommendations": 13
+                },
+                {
+                    "node": {
+                        "id": 34933,
+                        "title": "Kakegurui",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/3/86578.webp",
+                            "large": "https://cdn.myanimelist.net/images/anime/3/86578l.webp"
+                        }
+                    },
+                    "num_recommendations": 13
+                },
+                {
+                    "node": {
+                        "id": 33352,
+                        "title": "Violet Evergarden",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1795/95088.webp",
+                            "large": "https://cdn.myanimelist.net/images/anime/1795/95088l.webp"
+                        }
+                    },
+                    "num_recommendations": 13
+                },
+                {
+                    "node": {
+                        "id": 1589,
+                        "title": "Bartender",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/13/67397.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/13/67397l.jpg"
+                        }
+                    },
+                    "num_recommendations": 11
+                },
+                {
+                    "node": {
+                        "id": 16592,
+                        "title": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/4/51463.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/4/51463l.jpg"
+                        }
+                    },
+                    "num_recommendations": 8
+                },
+                {
+                    "node": {
+                        "id": 3002,
+                        "title": "Gyakkyou Burai Kaiji: Ultimate Survivor",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/12/80032.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/12/80032l.jpg"
+                        }
+                    },
+                    "num_recommendations": 7
+                }
+            ]
+        }
+    },
+    "18153": {
+        "timestamp": "2025-02-17T01:20:01.001892",
+        "details": {
+            "id": 18153,
+            "title": "Kyoukai no Kanata",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/3/85468.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/3/85468l.webp"
+            },
+            "alternative_titles": {
+                "synonyms": [
+                    "Beyond the Horizon"
+                ],
+                "en": "Beyond the Boundary",
+                "ja": "境界の彼方"
+            },
+            "mean": 7.72,
+            "rank": 1232,
+            "popularity": 126,
+            "genres": [
+                {
+                    "id": 1,
+                    "name": "Action"
+                },
+                {
+                    "id": 23,
+                    "name": "School"
+                },
+                {
+                    "id": 37,
+                    "name": "Supernatural"
+                }
+            ],
+            "num_episodes": 12,
+            "recommendations": [
+                {
+                    "node": {
+                        "id": 20507,
+                        "title": "Noragami",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1886/128266.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/1886/128266l.jpg"
+                        }
+                    },
+                    "num_recommendations": 26
+                },
+                {
+                    "node": {
+                        "id": 9756,
+                        "title": "Mahou Shoujo Madoka★Magica",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/11/55225.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/11/55225l.jpg"
+                        }
+                    },
+                    "num_recommendations": 10
+                },
+                {
+                    "node": {
+                        "id": 14741,
+                        "title": "Chuunibyou demo Koi ga Shitai!",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1905/142840.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/1905/142840l.jpg"
+                        }
+                    },
+                    "num_recommendations": 8
+                },
+                {
+                    "node": {
+                        "id": 6880,
+                        "title": "Deadman Wonderland",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/9/75299.webp",
+                            "large": "https://cdn.myanimelist.net/images/anime/9/75299l.webp"
+                        }
+                    },
+                    "num_recommendations": 6
+                },
+                {
+                    "node": {
+                        "id": 40748,
+                        "title": "Jujutsu Kaisen",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/1171/109222l.jpg"
+                        }
+                    },
+                    "num_recommendations": 5
+                },
+                {
+                    "node": {
+                        "id": 39017,
+                        "title": "Kyokou Suiri",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1310/117188.webp",
+                            "large": "https://cdn.myanimelist.net/images/anime/1310/117188l.webp"
+                        }
+                    },
+                    "num_recommendations": 5
+                },
+                {
+                    "node": {
+                        "id": 12189,
+                        "title": "Hyouka",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/13/50521.webp",
+                            "large": "https://cdn.myanimelist.net/images/anime/13/50521l.webp"
+                        }
+                    },
+                    "num_recommendations": 5
+                },
+                {
+                    "node": {
+                        "id": 5081,
+                        "title": "Bakemonogatari",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/11/75274.webp",
+                            "large": "https://cdn.myanimelist.net/images/anime/11/75274l.webp"
+                        }
+                    },
+                    "num_recommendations": 5
+                },
+                {
+                    "node": {
+                        "id": 9919,
+                        "title": "Ao no Exorcist",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/10/75195.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/10/75195l.jpg"
+                        }
+                    },
+                    "num_recommendations": 4
+                },
+                {
+                    "node": {
+                        "id": 6547,
+                        "title": "Angel Beats!",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1244/111115.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/1244/111115l.jpg"
+                        }
+                    },
+                    "num_recommendations": 4
+                }
+            ]
+        }
+    },
+    "9253": {
+        "timestamp": "2025-02-17T01:20:01.138521",
+        "details": {
+            "id": 9253,
+            "title": "Steins;Gate",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1935/127974.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg"
+            },
+            "alternative_titles": {
+                "synonyms": [],
+                "en": "Steins;Gate",
+                "ja": "STEINS;GATE"
+            },
+            "mean": 9.07,
+            "rank": 3,
+            "popularity": 14,
+            "genres": [
+                {
+                    "id": 8,
+                    "name": "Drama"
+                },
+                {
+                    "id": 40,
+                    "name": "Psychological"
+                },
+                {
+                    "id": 24,
+                    "name": "Sci-Fi"
+                },
+                {
+                    "id": 41,
+                    "name": "Suspense"
+                },
+                {
+                    "id": 78,
+                    "name": "Time Travel"
+                }
+            ],
+            "num_episodes": 24,
+            "recommendations": [
+                {
+                    "node": {
+                        "id": 31043,
+                        "title": "Boku dake ga Inai Machi",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/10/77957.webp",
+                            "large": "https://cdn.myanimelist.net/images/anime/10/77957l.webp"
+                        }
+                    },
+                    "num_recommendations": 132
+                },
+                {
+                    "node": {
+                        "id": 31240,
+                        "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1522/128039.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/1522/128039l.jpg"
+                        }
+                    },
+                    "num_recommendations": 132
+                },
+                {
+                    "node": {
+                        "id": 9756,
+                        "title": "Mahou Shoujo Madoka★Magica",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/11/55225.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/11/55225l.jpg"
+                        }
+                    },
+                    "num_recommendations": 49
+                },
+                {
+                    "node": {
+                        "id": 10620,
+                        "title": "Mirai Nikki (TV)",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/13/33465.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/13/33465l.jpg"
+                        }
+                    },
+                    "num_recommendations": 26
+                },
+                {
+                    "node": {
+                        "id": 44074,
+                        "title": "Shiguang Dailiren",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1135/114867.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg"
+                        }
+                    },
+                    "num_recommendations": 24
+                },
+                {
+                    "node": {
+                        "id": 2236,
+                        "title": "Toki wo Kakeru Shoujo",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1/2432.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/1/2432l.jpg"
+                        }
+                    },
+                    "num_recommendations": 23
+                },
+                {
+                    "node": {
+                        "id": 1210,
+                        "title": "NHK ni Youkoso!",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/3/52675.webp",
+                            "large": "https://cdn.myanimelist.net/images/anime/3/52675l.webp"
+                        }
+                    },
+                    "num_recommendations": 19
+                },
+                {
+                    "node": {
+                        "id": 1535,
+                        "title": "Death Note",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1079/138100.webp",
+                            "large": "https://cdn.myanimelist.net/images/anime/1079/138100l.webp"
+                        }
+                    },
+                    "num_recommendations": 15
+                },
+                {
+                    "node": {
+                        "id": 47194,
+                        "title": "Summertime Render",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1120/120796.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/1120/120796l.jpg"
+                        }
+                    },
+                    "num_recommendations": 14
+                },
+                {
+                    "node": {
+                        "id": 46095,
+                        "title": "Vivy: Fluorite Eye's Song",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1551/128960.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/1551/128960l.jpg"
+                        }
+                    },
+                    "num_recommendations": 14
+                }
+            ]
+        }
+    },
+    "55888": {
+        "timestamp": "2025-02-17T01:20:01.142187",
+        "details": {
+            "id": 55888,
+            "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1876/141251.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1876/141251l.jpg"
+            },
+            "alternative_titles": {
+                "synonyms": [
+                    "Jobless Reincarnation: I Will Seriously Try If I Go To Another World",
+                    "Mushoku Tensei: Isekai Ittara Honki Dasu 2nd Season Part 2"
+                ],
+                "en": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+                "ja": "無職転生 II ～異世界行ったら本気だす～ (第2クール)"
+            },
+            "mean": 8.43,
+            "rank": 177,
+            "popularity": 515,
+            "genres": [
+                {
+                    "id": 2,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 8,
+                    "name": "Drama"
+                },
+                {
+                    "id": 9,
+                    "name": "Ecchi"
+                },
+                {
+                    "id": 10,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 62,
+                    "name": "Isekai"
+                },
+                {
+                    "id": 72,
+                    "name": "Reincarnation"
+                }
+            ],
+            "num_episodes": 12,
+            "recommendations": []
+        }
+    },
+    "52991": {
+        "timestamp": "2025-02-17T01:20:01.149150",
+        "details": {
+            "id": 52991,
+            "title": "Sousou no Frieren",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1015/138006.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1015/138006l.webp"
+            },
+            "alternative_titles": {
+                "synonyms": [
+                    "Frieren at the Funeral",
+                    "Frieren The Slayer"
+                ],
+                "en": "Frieren: Beyond Journey's End",
+                "ja": "葬送のフリーレン"
+            },
+            "mean": 9.31,
+            "rank": 1,
+            "popularity": 164,
+            "genres": [
+                {
+                    "id": 2,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 8,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 27,
+                    "name": "Shounen"
+                }
+            ],
+            "num_episodes": 28,
+            "recommendations": [
+                {
+                    "node": {
+                        "id": 33352,
+                        "title": "Violet Evergarden",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1795/95088.webp",
+                            "large": "https://cdn.myanimelist.net/images/anime/1795/95088l.webp"
+                        }
+                    },
+                    "num_recommendations": 21
+                },
+                {
+                    "node": {
+                        "id": 41025,
+                        "title": "Fumetsu no Anata e",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1880/118484.webp",
+                            "large": "https://cdn.myanimelist.net/images/anime/1880/118484l.webp"
+                        }
+                    },
+                    "num_recommendations": 14
+                },
+                {
+                    "node": {
+                        "id": 35851,
+                        "title": "Sayonara no Asa ni Yakusoku no Hana wo Kazarou",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/11/89556.webp",
+                            "large": "https://cdn.myanimelist.net/images/anime/11/89556l.webp"
+                        }
+                    },
+                    "num_recommendations": 13
+                },
+                {
+                    "node": {
+                        "id": 40571,
+                        "title": "Majo no Tabitabi",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1802/108501.webp",
+                            "large": "https://cdn.myanimelist.net/images/anime/1802/108501l.webp"
+                        }
+                    },
+                    "num_recommendations": 8
+                },
+                {
+                    "node": {
+                        "id": 457,
+                        "title": "Mushishi",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/2/73862.webp",
+                            "large": "https://cdn.myanimelist.net/images/anime/2/73862l.webp"
+                        }
+                    },
+                    "num_recommendations": 7
+                },
+                {
+                    "node": {
+                        "id": 52701,
+                        "title": "Dungeon Meshi",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1711/142478.webp",
+                            "large": "https://cdn.myanimelist.net/images/anime/1711/142478l.webp"
+                        }
+                    },
+                    "num_recommendations": 6
+                },
+                {
+                    "node": {
+                        "id": 486,
+                        "title": "Kino no Tabi: The Beautiful World",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1763/95397.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/1763/95397l.jpg"
+                        }
+                    },
+                    "num_recommendations": 6
+                },
+                {
+                    "node": {
+                        "id": 39535,
+                        "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1530/117776.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/1530/117776l.jpg"
+                        }
+                    },
+                    "num_recommendations": 6
+                },
+                {
+                    "node": {
+                        "id": 2966,
+                        "title": "Ookami to Koushinryou",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/5/59401.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/5/59401l.jpg"
+                        }
+                    },
+                    "num_recommendations": 6
+                },
+                {
+                    "node": {
+                        "id": 4081,
+                        "title": "Natsume Yuujinchou",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1681/108439.webp",
+                            "large": "https://cdn.myanimelist.net/images/anime/1681/108439l.webp"
+                        }
+                    },
+                    "num_recommendations": 3
+                }
+            ]
+        }
+    },
+    "52750": {
+        "timestamp": "2025-02-17T01:20:01.149150",
+        "details": {
+            "id": 52750,
+            "title": "SK∞ 2nd Season",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1292/127028.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1292/127028l.jpg"
+            },
+            "alternative_titles": {
+                "synonyms": [
+                    "SK Eight",
+                    "Skate"
+                ],
+                "en": "SK8 the Infinity Season 2",
+                "ja": "SK∞ エスケーエイト"
+            },
+            "popularity": 3741,
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Racing"
+                },
+                {
+                    "id": 30,
+                    "name": "Sports"
+                }
+            ],
+            "num_episodes": 0,
+            "recommendations": []
+        }
+    },
+    "42923": {
+        "timestamp": "2025-02-17T01:20:01.150647",
+        "details": {
+            "id": 42923,
+            "title": "SK∞",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1549/119195.jpg",
+                "large": "https://cdn.myanimelist.net/images/anime/1549/119195l.jpg"
+            },
+            "alternative_titles": {
+                "synonyms": [
+                    "SK Eight",
+                    "Skate"
+                ],
+                "en": "SK8 the Infinity",
+                "ja": "SK∞ エスケーエイト"
+            },
+            "mean": 8,
+            "rank": 661,
+            "popularity": 391,
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Racing"
+                },
+                {
+                    "id": 30,
+                    "name": "Sports"
+                }
+            ],
+            "num_episodes": 12,
+            "recommendations": [
+                {
+                    "node": {
+                        "id": 32995,
+                        "title": "Yuri!!! on Ice",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/6/81149.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/6/81149l.jpg"
+                        }
+                    },
+                    "num_recommendations": 14
+                },
+                {
+                    "node": {
+                        "id": 20583,
+                        "title": "Haikyuu!!",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/7/76014.webp",
+                            "large": "https://cdn.myanimelist.net/images/anime/7/76014l.webp"
+                        }
+                    },
+                    "num_recommendations": 11
+                },
+                {
+                    "node": {
+                        "id": 18507,
+                        "title": "Free!",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/6/51107.webp",
+                            "large": "https://cdn.myanimelist.net/images/anime/6/51107l.webp"
+                        }
+                    },
+                    "num_recommendations": 10
+                },
+                {
+                    "node": {
+                        "id": 36649,
+                        "title": "Banana Fish",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1190/93472.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/1190/93472l.jpg"
+                        }
+                    },
+                    "num_recommendations": 8
+                },
+                {
+                    "node": {
+                        "id": 185,
+                        "title": "Initial D First Stage",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1384/127972.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/1384/127972l.jpg"
+                        }
+                    },
+                    "num_recommendations": 6
+                },
+                {
+                    "node": {
+                        "id": 39533,
+                        "title": "Given",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1666/102238.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/1666/102238l.jpg"
+                        }
+                    },
+                    "num_recommendations": 5
+                },
+                {
+                    "node": {
+                        "id": 33899,
+                        "title": "IDOLiSH7",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1390/90828.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/1390/90828l.jpg"
+                        }
+                    },
+                    "num_recommendations": 4
+                },
+                {
+                    "node": {
+                        "id": 46118,
+                        "title": "Wave!! Surfing Yappe!! (TV)",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1807/113870.webp",
+                            "large": "https://cdn.myanimelist.net/images/anime/1807/113870l.webp"
+                        }
+                    },
+                    "num_recommendations": 3
+                },
+                {
+                    "node": {
+                        "id": 50248,
+                        "title": "Birdie Wing: Golf Girls' Story",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1343/120488.webp",
+                            "large": "https://cdn.myanimelist.net/images/anime/1343/120488l.webp"
+                        }
+                    },
+                    "num_recommendations": 3
+                },
+                {
+                    "node": {
+                        "id": 14741,
+                        "title": "Chuunibyou demo Koi ga Shitai!",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1905/142840.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/1905/142840l.jpg"
+                        }
+                    },
+                    "num_recommendations": 2
+                }
+            ]
+        }
+    },
+    "40333": {
+        "timestamp": "2025-02-17T01:20:01.153816",
+        "details": {
+            "id": 40333,
+            "title": "Uzumaki",
+            "main_picture": {
+                "medium": "https://cdn.myanimelist.net/images/anime/1207/146272.webp",
+                "large": "https://cdn.myanimelist.net/images/anime/1207/146272l.webp"
+            },
+            "alternative_titles": {
+                "synonyms": [
+                    "The Spiral"
+                ],
+                "en": "Uzumaki: Spiral into Horror",
+                "ja": "うずまき"
+            },
+            "mean": 5.8,
+            "rank": 10942,
+            "popularity": 1134,
+            "genres": [
+                {
+                    "id": 5,
+                    "name": "Avant Garde"
+                },
+                {
+                    "id": 8,
+                    "name": "Drama"
+                },
+                {
+                    "id": 14,
+                    "name": "Horror"
+                },
+                {
+                    "id": 40,
+                    "name": "Psychological"
+                },
+                {
+                    "id": 42,
+                    "name": "Seinen"
+                },
+                {
+                    "id": 41,
+                    "name": "Suspense"
+                }
+            ],
+            "num_episodes": 4,
+            "recommendations": [
+                {
+                    "node": {
+                        "id": 16201,
+                        "title": "Aku no Hana",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/8/50559.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/8/50559l.jpg"
+                        }
+                    },
+                    "num_recommendations": 2
+                },
+                {
+                    "node": {
+                        "id": 2261,
+                        "title": "Malice@Doll",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1277/106345.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/1277/106345l.jpg"
+                        }
+                    },
+                    "num_recommendations": 1
+                },
+                {
+                    "node": {
+                        "id": 36124,
+                        "title": "Itou Junji: Collection",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/7/88366.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/7/88366l.jpg"
+                        }
+                    },
+                    "num_recommendations": 1
+                },
+                {
+                    "node": {
+                        "id": 838,
+                        "title": "Narutaru: Mukuro Naru Hoshi Tama Taru Ko",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/10/12023.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/10/12023l.jpg"
+                        }
+                    },
+                    "num_recommendations": 1
+                },
+                {
+                    "node": {
+                        "id": 33,
+                        "title": "Kenpuu Denki Berserk",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/1384/119988.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/1384/119988l.jpg"
+                        }
+                    },
+                    "num_recommendations": 1
+                },
+                {
+                    "node": {
+                        "id": 22535,
+                        "title": "Kiseijuu: Sei no Kakuritsu",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/3/73178.webp",
+                            "large": "https://cdn.myanimelist.net/images/anime/3/73178l.webp"
+                        }
+                    },
+                    "num_recommendations": 1
+                },
+                {
+                    "node": {
+                        "id": 2001,
+                        "title": "Tengen Toppa Gurren Lagann",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/4/5123.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/4/5123l.jpg"
+                        }
+                    },
+                    "num_recommendations": 1
+                },
+                {
+                    "node": {
+                        "id": 11111,
+                        "title": "Another",
+                        "main_picture": {
+                            "medium": "https://cdn.myanimelist.net/images/anime/4/75509.jpg",
+                            "large": "https://cdn.myanimelist.net/images/anime/4/75509l.jpg"
+                        }
+                    },
+                    "num_recommendations": 1
+                }
+            ]
+        }
+    }
+}

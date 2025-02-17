@@ -1,0 +1,429 @@
+{
+    "test1234554": {
+        "timestamp": "2025-02-17T01:19:58.080962",
+        "anime_list": [
+            {
+                "node": {
+                    "id": 28223,
+                    "title": "Death Parade",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/5/71553.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/5/71553l.jpg"
+                    },
+                    "alternative_titles": {
+                        "synonyms": [],
+                        "en": "Death Parade",
+                        "ja": "デス・パレード"
+                    },
+                    "mean": 8.14,
+                    "rank": 474,
+                    "popularity": 48,
+                    "genres": [
+                        {
+                            "id": 50,
+                            "name": "Adult Cast"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Drama"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Fantasy"
+                        },
+                        {
+                            "id": 59,
+                            "name": "High Stakes Game"
+                        },
+                        {
+                            "id": 40,
+                            "name": "Psychological"
+                        },
+                        {
+                            "id": 41,
+                            "name": "Suspense"
+                        }
+                    ],
+                    "num_episodes": 12
+                },
+                "list_status": {
+                    "status": "completed",
+                    "score": 9,
+                    "num_episodes_watched": 12,
+                    "is_rewatching": false,
+                    "updated_at": "2024-11-21T01:31:50+00:00"
+                }
+            },
+            {
+                "node": {
+                    "id": 18153,
+                    "title": "Kyoukai no Kanata",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/3/85468.webp",
+                        "large": "https://cdn.myanimelist.net/images/anime/3/85468l.webp"
+                    },
+                    "alternative_titles": {
+                        "synonyms": [
+                            "Beyond the Horizon"
+                        ],
+                        "en": "Beyond the Boundary",
+                        "ja": "境界の彼方"
+                    },
+                    "mean": 7.72,
+                    "rank": 1232,
+                    "popularity": 126,
+                    "genres": [
+                        {
+                            "id": 1,
+                            "name": "Action"
+                        },
+                        {
+                            "id": 23,
+                            "name": "School"
+                        },
+                        {
+                            "id": 37,
+                            "name": "Supernatural"
+                        }
+                    ],
+                    "num_episodes": 12
+                },
+                "list_status": {
+                    "status": "on_hold",
+                    "score": 0,
+                    "num_episodes_watched": 0,
+                    "is_rewatching": false,
+                    "updated_at": "2024-11-20T14:58:27+00:00"
+                }
+            },
+            {
+                "node": {
+                    "id": 55888,
+                    "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1876/141251.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1876/141251l.jpg"
+                    },
+                    "alternative_titles": {
+                        "synonyms": [
+                            "Jobless Reincarnation: I Will Seriously Try If I Go To Another World",
+                            "Mushoku Tensei: Isekai Ittara Honki Dasu 2nd Season Part 2"
+                        ],
+                        "en": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+                        "ja": "無職転生 II ～異世界行ったら本気だす～ (第2クール)"
+                    },
+                    "mean": 8.43,
+                    "rank": 177,
+                    "popularity": 515,
+                    "genres": [
+                        {
+                            "id": 2,
+                            "name": "Adventure"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Drama"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Ecchi"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Fantasy"
+                        },
+                        {
+                            "id": 62,
+                            "name": "Isekai"
+                        },
+                        {
+                            "id": 72,
+                            "name": "Reincarnation"
+                        }
+                    ],
+                    "num_episodes": 12
+                },
+                "list_status": {
+                    "status": "completed",
+                    "score": 8,
+                    "num_episodes_watched": 12,
+                    "is_rewatching": false,
+                    "updated_at": "2024-11-20T00:58:58+00:00"
+                }
+            },
+            {
+                "node": {
+                    "id": 42923,
+                    "title": "SK∞",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1549/119195.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1549/119195l.jpg"
+                    },
+                    "alternative_titles": {
+                        "synonyms": [
+                            "SK Eight",
+                            "Skate"
+                        ],
+                        "en": "SK8 the Infinity",
+                        "ja": "SK∞ エスケーエイト"
+                    },
+                    "mean": 8,
+                    "rank": 661,
+                    "popularity": 391,
+                    "genres": [
+                        {
+                            "id": 3,
+                            "name": "Racing"
+                        },
+                        {
+                            "id": 30,
+                            "name": "Sports"
+                        }
+                    ],
+                    "num_episodes": 12
+                },
+                "list_status": {
+                    "status": "dropped",
+                    "score": 0,
+                    "num_episodes_watched": 0,
+                    "is_rewatching": false,
+                    "updated_at": "2024-11-20T14:58:44+00:00"
+                }
+            },
+            {
+                "node": {
+                    "id": 52750,
+                    "title": "SK∞ 2nd Season",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1292/127028.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1292/127028l.jpg"
+                    },
+                    "alternative_titles": {
+                        "synonyms": [
+                            "SK Eight",
+                            "Skate"
+                        ],
+                        "en": "SK8 the Infinity Season 2",
+                        "ja": "SK∞ エスケーエイト"
+                    },
+                    "popularity": 3741,
+                    "genres": [
+                        {
+                            "id": 3,
+                            "name": "Racing"
+                        },
+                        {
+                            "id": 30,
+                            "name": "Sports"
+                        }
+                    ],
+                    "num_episodes": 0
+                },
+                "list_status": {
+                    "status": "plan_to_watch",
+                    "score": 0,
+                    "num_episodes_watched": 0,
+                    "is_rewatching": false,
+                    "updated_at": "2024-11-20T14:58:52+00:00"
+                }
+            },
+            {
+                "node": {
+                    "id": 52991,
+                    "title": "Sousou no Frieren",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1015/138006.webp",
+                        "large": "https://cdn.myanimelist.net/images/anime/1015/138006l.webp"
+                    },
+                    "alternative_titles": {
+                        "synonyms": [
+                            "Frieren at the Funeral",
+                            "Frieren The Slayer"
+                        ],
+                        "en": "Frieren: Beyond Journey's End",
+                        "ja": "葬送のフリーレン"
+                    },
+                    "mean": 9.31,
+                    "rank": 1,
+                    "popularity": 164,
+                    "genres": [
+                        {
+                            "id": 2,
+                            "name": "Adventure"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Drama"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Fantasy"
+                        },
+                        {
+                            "id": 27,
+                            "name": "Shounen"
+                        }
+                    ],
+                    "num_episodes": 28
+                },
+                "list_status": {
+                    "status": "completed",
+                    "score": 10,
+                    "num_episodes_watched": 28,
+                    "is_rewatching": false,
+                    "updated_at": "2024-11-19T21:15:39+00:00"
+                }
+            },
+            {
+                "node": {
+                    "id": 9253,
+                    "title": "Steins;Gate",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1935/127974.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg"
+                    },
+                    "alternative_titles": {
+                        "synonyms": [],
+                        "en": "Steins;Gate",
+                        "ja": "STEINS;GATE"
+                    },
+                    "mean": 9.07,
+                    "rank": 3,
+                    "popularity": 14,
+                    "genres": [
+                        {
+                            "id": 8,
+                            "name": "Drama"
+                        },
+                        {
+                            "id": 40,
+                            "name": "Psychological"
+                        },
+                        {
+                            "id": 24,
+                            "name": "Sci-Fi"
+                        },
+                        {
+                            "id": 41,
+                            "name": "Suspense"
+                        },
+                        {
+                            "id": 78,
+                            "name": "Time Travel"
+                        }
+                    ],
+                    "num_episodes": 24
+                },
+                "list_status": {
+                    "status": "dropped",
+                    "score": 9,
+                    "num_episodes_watched": 23,
+                    "is_rewatching": false,
+                    "updated_at": "2024-11-21T01:28:25+00:00"
+                }
+            },
+            {
+                "node": {
+                    "id": 40333,
+                    "title": "Uzumaki",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1207/146272.webp",
+                        "large": "https://cdn.myanimelist.net/images/anime/1207/146272l.webp"
+                    },
+                    "alternative_titles": {
+                        "synonyms": [
+                            "The Spiral"
+                        ],
+                        "en": "Uzumaki: Spiral into Horror",
+                        "ja": "うずまき"
+                    },
+                    "mean": 5.8,
+                    "rank": 10942,
+                    "popularity": 1134,
+                    "genres": [
+                        {
+                            "id": 5,
+                            "name": "Avant Garde"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Drama"
+                        },
+                        {
+                            "id": 14,
+                            "name": "Horror"
+                        },
+                        {
+                            "id": 40,
+                            "name": "Psychological"
+                        },
+                        {
+                            "id": 42,
+                            "name": "Seinen"
+                        },
+                        {
+                            "id": 41,
+                            "name": "Suspense"
+                        }
+                    ],
+                    "num_episodes": 4
+                },
+                "list_status": {
+                    "status": "on_hold",
+                    "score": 0,
+                    "num_episodes_watched": 0,
+                    "is_rewatching": false,
+                    "updated_at": "2024-11-21T01:28:09+00:00"
+                }
+            },
+            {
+                "node": {
+                    "id": 46095,
+                    "title": "Vivy: Fluorite Eye's Song",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1551/128960.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1551/128960l.jpg"
+                    },
+                    "alternative_titles": {
+                        "synonyms": [],
+                        "en": "Vivy -Fluorite Eye's Song-",
+                        "ja": "Vivy -Fluorite Eye's Song- (ヴィヴィ -フローライトアイズソング-)"
+                    },
+                    "mean": 8.39,
+                    "rank": 207,
+                    "popularity": 413,
+                    "genres": [
+                        {
+                            "id": 1,
+                            "name": "Action"
+                        },
+                        {
+                            "id": 19,
+                            "name": "Music"
+                        },
+                        {
+                            "id": 24,
+                            "name": "Sci-Fi"
+                        },
+                        {
+                            "id": 41,
+                            "name": "Suspense"
+                        },
+                        {
+                            "id": 78,
+                            "name": "Time Travel"
+                        }
+                    ],
+                    "num_episodes": 13
+                },
+                "list_status": {
+                    "status": "completed",
+                    "score": 8,
+                    "num_episodes_watched": 13,
+                    "is_rewatching": false,
+                    "updated_at": "2024-11-19T21:17:38+00:00"
+                }
+            }
+        ]
+    }
+}
